@@ -2,6 +2,14 @@
 This repository is developed using Power BI and MS Excel.
 
 ## Problem Statement
-In an effort to optimize employee engagement and well-being, **AtliQ Technologies**, a leading business consulting firm, commissioned a data analyst to develop informative dashboards. These dashboards will analyze employee work preferences and facilitate the organization of targeted team-building activities specifically tailored to employee preferences.
+In an effort to optimize employee engagement and well-being, **AtliQ Technologies**, a business consulting firm, commissioned a data analyst to develop informative dashboards. These dashboards will analyze employee work preferences and facilitate the organization of targeted team-building activities specifically tailored to employee preferences.
 
 ## Dashboard
+![Presence Insights](https://github.com/Hansaraj09/Presence-Insights/assets/93324559/b6a4b66d-9d2f-4b1f-9a1d-ac4d7ad26a5a)
+
+## Key Insights
+1.SickLeave % was unexpectedly high on Monday, June 13, 2022. It had a value of 3.80%, which is outside the expected range of 2.98%-3.35%.
+
+**Possible Reasons:** The unexpectedly high SickLeave % of 3.80% recorded on Monday, June 13, 2022, warrants further investigation. Potential contributing factors could include a decreased willingness among employees to return to the office following the weekend or a localized increase in illness due to external circumstances.
+
+2
