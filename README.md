@@ -16,4 +16,4 @@ To optimize employee engagement and well-being, **AtliQ Technologies**, a busine
 
 **Possible Reasons:** The spike of **work from trend** among the employees may be due to the approaching weekends. Considering this trend, exploring alternative scheduling of team-building activities away from weekends might be beneficial for employee engagement and participation.
 
-[**Live Dashboard:**] (https://app.powerbi.com/links/MW_gQzWCNF?ctid=a57f7d92-038e-4d4c-8265-7cd2beb33b34&pbi_source=linkShare&bookmarkGuid=960b8c14-6016-46e6-9271-f9fe7a7d4106)
+[**Live Dashboard:**](https://app.powerbi.com/links/MW_gQzWCNF?ctid=a57f7d92-038e-4d4c-8265-7cd2beb33b34&pbi_source=linkShare&bookmarkGuid=960b8c14-6016-46e6-9271-f9fe7a7d4106)
